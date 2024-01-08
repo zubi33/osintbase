@@ -131,12 +131,12 @@ Installation de paru...$NoColor
 
 """
 
-sudo pacman -S --needed base-devel
-git clone https://aur.archlinux.org/paru.git
-cd paru
-makepkg -si
-cd $nowdir
-rm -Rf paru
+# sudo pacman -S --needed base-devel
+# git clone https://aur.archlinux.org/paru.git
+# cd paru
+# makepkg -si
+# cd $nowdir
+# rm -Rf paru
 
 echo """
 
@@ -163,7 +163,7 @@ Installation des programmes avec paru.$NoColor
 
 paru -S vim-gruvbox-material-git rofi-power-menu clipmenu-rofi \
 thunar-shares-plugin raw-thumbnailer ttf-font-awesome-5 \
-pamixer pdfsam  zsh  
+pamixer pdfsam  zsh cd  
 
 
 
