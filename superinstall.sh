@@ -100,7 +100,7 @@ sudo pacman -Syu --needed network-manager-applet \
 rofi dunst nitrogen arandr lightdm lightdm-gtk-greeter \
 thunar gvfs xdg-utils xdotool git rsync \
 xorg xorg-xinit xorg-xbacklight xdg-user-dirs chromium picom terminator \
-bspwm sxhkd polybar wget qogir-gtk-theme gtk-engine-murrine gtk-engines \
+bspwm sxhkd polybar wget gtk-engine-murrine gtk-engines \
 yad openssh code exo alsa-utils xdo pulseaudio-alsa \
 adobe-source-code-pro-fonts awesome-terminal-fonts cantarell-fonts noto-fonts ttf-dejavu ttf-nerd-fonts-symbols ttf-nerd-fonts-symbols-common \
 thunar-archive-plugin thunar-media-tags-plugin thunar-volman \
@@ -163,7 +163,7 @@ Installation des programmes avec paru.$NoColor
 
 paru -S vim-gruvbox-material-git rofi-power-menu clipmenu-rofi \
 thunar-shares-plugin raw-thumbnailer ttf-font-awesome-5 \
-pamixer pdfsam  zsh cd  
+pamixer pdfsam zsh qogir-gtk-theme  
 
 
 
