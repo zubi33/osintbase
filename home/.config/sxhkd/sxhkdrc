@@ -1,0 +1,172 @@
+#
+# Raccourcis WM
+#
+
+# Terminal emulator - Terminator
+super + Return
+	terminator
+
+# Gestionnaire de fichiers- Thunar
+super + shift + Return
+    thunar
+
+# Navigateur web - Chromium
+super + w
+    chromium
+
+# Messagerie - Thunderbird
+# super + i
+    # thunderbird
+
+# Lanceur de programmes - ROFI
+super + @space
+    rofi -show drun	-show-icons
+
+# Clipboard - ROFI
+super + v
+    xfce4-popup-clipman
+
+# Aide sxhkd - ROFI
+super + n
+    .config/sxhkd/sxhkd-help
+
+# Relancer sxhkd - recharger
+super + Escape
+	pkill -USR1 -x sxhkd
+
+# Menu d'exctinction - ROFI
+super + x
+    rofi -show power-menu -modi power-menu:rofi-power-menu
+
+# Printscreen
+super + {_,ctrl + }Print
+    shutter -{s,w}
+
+#
+# Multimedia Keys
+#
+
+XF86Audio{Raise,Lower}Volume
+    amixer -D pulse sset Master 5%{+,-}
+
+XF86AudioMute
+    amixer -D pulse sset Master toggle 
+
+XF86Audio{Play,Prev,Next,Stop}
+    playerctl {play-pause,previous,next,stop}
+
+XF86MonBrightness{Up,Down}
+	brightnessctl set 5%{+,-}
+
+ctrl + XF86MonBrightness{Up,Down}
+	brightnessctl set {90%,10%}
+
+#
+# Raccourcis BSPWM 
+#
+
+# Quitter/redémarrer BSPWM 
+super + alt + {q,r}
+	bspc {quit,wm -r}
+
+# Fermer et tuer 
+super + {_,shift + }q
+	bspc node -{c,k}
+
+# Alterner entre tiled et monoclue vue 
+super + m
+	bspc desktop -l next
+
+# Envoyer le nouveau noeud marqué au nouveau noeud préselectionné 
+super + y
+	bspc node newest.marked.local -n newest.!automatic.local
+
+# Changer le noeud courant et la plus grande fenêtre 
+super + g
+	bspc node -s biggest.window
+
+#
+# Etat/drapeaux 
+#
+
+# Changer l'état de la fenêtre - tiled, pseudo-tilet, flotattente, plein écran
+super + {t,shift + t,s,f}
+	bspc node -t {tiled,pseudo_tiled,floating,fullscreen}
+
+# Changer le drapeau du noeud
+super + ctrl + {m,x,y,z}
+	bspc node -g {marked,locked,sticky,private}
+
+#
+# Focus/changement
+#
+
+# Focus du noeud dans la direction indiquée
+super + {_,shift + }{h,j,k,l}
+	bspc node -{f,s} {west,south,north,east}
+
+# Focus du noeud pour le chemin donné du saut 
+super + {p,b,comma,period}
+	bspc node -f @{parent,brother,first,second}
+
+# Focus de la fenêtre suivante/précédente du bureau courant 
+super + {_,shift + }c
+	bspc node -f {next,prev}.local.!hidden.window
+
+# Focus du bureau suivant/précédent de l'écran courant
+super + {Left,Right}
+	bspc desktop -f {prev,next}.local
+
+# Focus sur le dernier noeud/bureau
+super + {grave,Tab}
+	bspc {node,desktop} -f last
+
+# Focus de l'anvien/nouveau noeud
+super + {o,i}
+	bspc wm -h off; \
+	bspc node {older,newer} -f; \
+	bspc wm -h on
+
+# Envoyer le noeud sur le bureau indiqué sans suivre
+super + shift + {1-9,0}
+	bspc node -d '^{1-9,10}' 
+
+# Envoyer le noeud sur le bureau indiqué sans suivre
+super + {1-9,0}
+	bspc node -d '^{1-9,10}' --follow
+
+#
+# Préselectionné 
+#
+
+# Préselctionner la direction
+super + ctrl + {h,j,k,l}
+	bspc node -p {west,south,north,east}
+
+# Préselectionner le ratio
+super + ctrl + {1-9}
+	bspc node -o 0.{1-9}
+
+# Annuler la préselection sur le noeud focus
+super + ctrl + space
+	bspc node -p cancel
+
+# Annuler la préselection sur le bureau sélectionné 
+super + ctrl + shift + space
+	bspc query -N -d | xargs -I id -n 1 bspc node id -p cancel
+
+#
+# Déplacer/redimensionner
+#
+
+# Agrandir la fenêtre sur l'extérieur
+super + alt + {h,j,k,l}
+	bspc node -z {left -20 0,bottom 0 20,top 0 -20,right 20 0}
+
+# Contracter la fenêtre depuis l'intérieur
+super + alt + shift + {h,j,k,l}
+	bspc node -z {right -20 0,top 0 20,bottom 0 -20,left 20 0}
+
+# Déplacer une fenêtre flottante
+super + shift + {Left,Down,Up,Right}
+	bspc node -v {-20 0,0 20,0 -20,20 0}

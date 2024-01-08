@@ -1,0 +1,1017 @@
+# Ce fichier viminfo a été généré par Vim 9.0.
+# Vous pouvez l'éditer, mais soyez prudent.
+
+# Viminfo version
+|1,4
+
+# 'encoding' dans lequel ce fichier a été écrit
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Dernier motif de recherche  :
+~MSle0~/indic
+
+# Dernier motif de recherche Substitue  :
+~MSle0&auto
+
+# Dernières chaînes de substitution :
+$
+
+# Historique ligne de commande (chronologie décroissante) :
+:wq
+|2,0,1702643002,,"wq"
+:q
+|2,0,1702618410,,"q"
+:w
+|2,0,1702617522,,"w"
+:u
+|2,0,1702616416,,"u"
+:q!
+|2,0,1702234021,,"q!"
+:x
+|2,0,1695066815,,"x"
+:n
+|2,0,1695066290,,"n"
+:s/auto
+|2,0,1695066283,,"s/auto"
+:!q
+|2,0,1695066225,,"!q"
+:!
+|2,0,1695066213,,"!"
+:!x
+|2,0,1695066205,,"!x"
+:x!
+|2,0,1695066201,,"x!"
+:o ~/.vimrc
+|2,0,1695066188,,"o ~/.vimrc"
+:s
+|2,0,1695065207,,"s"
+:'<,'>x
+|2,0,1694934491,,"'<,'>x"
+:w favtr.py
+|2,0,1694930204,,"w favtr.py"
+:w test
+|2,0,1694725136,,"w test"
+:w essai
+|2,0,1694725123,,"w essai"
+:y
+|2,0,1694719424,,"y"
+:wq!
+|2,0,1686943593,,"wq!"
+
+# Historique chaîne de recherche (chronologie décroissante) :
+?/histo
+|2,1,1702614852,47,"histo"
+?/grav
+|2,1,1702614841,47,"grav"
+?/indic
+|2,1,1702582426,47,"indic"
+?/jj
+|2,1,1702582415,47,"jj"
+?/indicate_h
+|2,1,1702582033,47,"indicate_h"
+?/brows
+|2,1,1702581890,47,"brows"
+?/disk
+|2,1,1702326659,47,"disk"
+?/neof
+|2,1,1702326090,47,"neof"
+?/charg
+|2,1,1702325754,47,"charg"
+?/memory
+|2,1,1702325721,47,"memory"
+?/batter
+|2,1,1702325641,47,"batter"
+?/memo
+|2,1,1702325563,47,"memo"
+?/memor
+|2,1,1702325343,47,"memor"
+?/cpu
+|2,1,1702325257,47,"cpu"
+?/ram
+|2,1,1702325251,47,"ram"
+?/wlan
+|2,1,1702323045,47,"wlan"
+?/mou
+|2,1,1702321149,47,"mou"
+?/wla
+|2,1,1702320858,47,"wla"
+?/wirele
+|2,1,1702320841,47,"wirele"
+?/vsc
+|2,1,1702242358,47,"vsc"
+?/vs
+|2,1,1702242355,47,"vs"
+?/ws
+|2,1,1702238487,47,"ws"
+?/batt
+|2,1,1702237499,47,"batt"
+?/calenda
+|2,1,1702233687,47,"calenda"
+?/date
+|2,1,1702233616,47,"date"
+?/calen
+|2,1,1702232870,47,"calen"
+? \<SHELL\>
+|2,1,1702219639,,"\\<SHELL\\>"
+?/tray
+|2,1,1702218983,47,"tray"
+?/cal
+|2,1,1702218710,47,"cal"
+?/ls 
+|2,1,1702215017,47,"ls "
+?/per
+|2,1,1702214759,47,"per"
+?/calend
+|2,1,1702160496,47,"calend"
+?/da
+|2,1,1702159152,47,"da"
+?/plug
+|2,1,1702076159,47,"plug"
+? @$
+|2,1,1702075291,,"@$"
+?/envo
+|2,1,1696796689,47,"envo"
+?/send
+|2,1,1696796682,47,"send"
+?/left
+|2,1,1696796233,47,"left"
+?/righ
+|2,1,1696796179,47,"righ"
+? auto
+|2,1,1695066283,,"auto"
+
+# Historique expression (chronologie décroissante) :
+
+# Historique ligne de saisie (chronologie décroissante) :
+
+# Historique Ligne de débogage (chronologie décroissante) :
+
+# Registres :
+"0	LINE	0
+	XF86MonBrightness{Up,Down}
+|3,0,0,1,1,0,1702617603,"XF86MonBrightness{Up,Down}"
+"1	LINE	0
+	# Dans /etc/default/grub => quiet pcie_aspm=force acpi_osi=
+|3,0,1,1,1,0,1702618033,"# Dans /etc/default/grub => quiet pcie_aspm=force acpi_osi="
+"2	LINE	0
+	
+|3,0,2,1,1,0,1702617673,""
+"3	LINE	0
+		xbacklight + 21
+|3,0,3,1,1,0,1702617672,"	xbacklight + 21"
+"4	LINE	0
+	shift + XF86MonBrightnessUp
+|3,0,4,1,1,0,1702617670,"shift + XF86MonBrightnessUp"
+"5	LINE	0
+	
+|3,0,5,1,1,0,1702617666,""
+"6	LINE	0
+		xbacklight = 0
+|3,0,6,1,1,0,1702617665,"	xbacklight = 0"
+"7	LINE	0
+	ctrl + XF86MonBrightnessDown
+|3,0,7,1,1,0,1702617665,"ctrl + XF86MonBrightnessDown"
+"8	LINE	0
+	
+|3,0,8,1,1,0,1702617664,""
+"9	LINE	0
+		xbacklight - 21
+|3,0,9,1,1,0,1702617663,"	xbacklight - 21"
+""-	CHAR	0
+	off 
+|3,1,36,0,1,0,1702642999,"off "
+
+# Marques dans le fichier :
+'0  20  9  ~/.config/bspwm/bspwmrc
+|4,48,20,9,1702643002,"~/.config/bspwm/bspwmrc"
+'1  1  0  ~/.config/xfce4/helpers.rc
+|4,49,1,0,1702618410,"~/.config/xfce4/helpers.rc"
+'2  1  0  ~/.config/xfce4/xfconf/xfce-perchannel-xml/thunar.xml
+|4,50,1,0,1702618243,"~/.config/xfce4/xfconf/xfce-perchannel-xml/thunar.xml"
+'3  78  0  ~/.config/sxhkd/sxhkdrc
+|4,51,78,0,1702618050,"~/.config/sxhkd/sxhkdrc"
+'4  62  25  ~/.config/sxhkd/sxhkdrc
+|4,52,62,25,1702617751,"~/.config/sxhkd/sxhkdrc"
+'5  63  25  ~/.config/sxhkd/sxhkdrc
+|4,53,63,25,1702617751,"~/.config/sxhkd/sxhkdrc"
+'6  61  0  ~/.config/sxhkd/sxhkdrc
+|4,54,61,0,1702617682,"~/.config/sxhkd/sxhkdrc"
+'7  61  0  ~/.config/sxhkd/sxhkdrc
+|4,55,61,0,1702617682,"~/.config/sxhkd/sxhkdrc"
+'8  62  0  ~/.config/sxhkd/sxhkdrc
+|4,56,62,0,1702617682,"~/.config/sxhkd/sxhkdrc"
+'9  62  0  ~/.config/sxhkd/sxhkdrc
+|4,57,62,0,1702617682,"~/.config/sxhkd/sxhkdrc"
+
+# Liste de sauts (le plus récent en premier) :
+-'  20  9  ~/.config/bspwm/bspwmrc
+|4,39,20,9,1702643002,"~/.config/bspwm/bspwmrc"
+-'  1  0  ~/.config/bspwm/bspwmrc
+|4,39,1,0,1702642987,"~/.config/bspwm/bspwmrc"
+-'  1  0  ~/.config/xfce4/helpers.rc
+|4,39,1,0,1702618410,"~/.config/xfce4/helpers.rc"
+-'  1  0  ~/.config/xfce4/helpers.rc
+|4,39,1,0,1702618410,"~/.config/xfce4/helpers.rc"
+-'  1  0  ~/.config/xfce4/xfconf/xfce-perchannel-xml/thunar.xml
+|4,39,1,0,1702618243,"~/.config/xfce4/xfconf/xfce-perchannel-xml/thunar.xml"
+-'  1  0  ~/.config/xfce4/xfconf/xfce-perchannel-xml/thunar.xml
+|4,39,1,0,1702618243,"~/.config/xfce4/xfconf/xfce-perchannel-xml/thunar.xml"
+-'  1  0  ~/.config/xfce4/xfconf/xfce-perchannel-xml/thunar.xml
+|4,39,1,0,1702618243,"~/.config/xfce4/xfconf/xfce-perchannel-xml/thunar.xml"
+-'  1  0  ~/.config/xfce4/xfconf/xfce-perchannel-xml/thunar.xml
+|4,39,1,0,1702618243,"~/.config/xfce4/xfconf/xfce-perchannel-xml/thunar.xml"
+-'  78  0  ~/.config/sxhkd/sxhkdrc
+|4,39,78,0,1702618050,"~/.config/sxhkd/sxhkdrc"
+-'  78  0  ~/.config/sxhkd/sxhkdrc
+|4,39,78,0,1702618050,"~/.config/sxhkd/sxhkdrc"
+-'  78  0  ~/.config/sxhkd/sxhkdrc
+|4,39,78,0,1702618050,"~/.config/sxhkd/sxhkdrc"
+-'  78  0  ~/.config/sxhkd/sxhkdrc
+|4,39,78,0,1702618050,"~/.config/sxhkd/sxhkdrc"
+-'  78  0  ~/.config/sxhkd/sxhkdrc
+|4,39,78,0,1702618050,"~/.config/sxhkd/sxhkdrc"
+-'  78  0  ~/.config/sxhkd/sxhkdrc
+|4,39,78,0,1702618050,"~/.config/sxhkd/sxhkdrc"
+-'  78  0  ~/.config/sxhkd/sxhkdrc
+|4,39,78,0,1702618050,"~/.config/sxhkd/sxhkdrc"
+-'  78  0  ~/.config/sxhkd/sxhkdrc
+|4,39,78,0,1702618050,"~/.config/sxhkd/sxhkdrc"
+-'  1  0  ~/.config/sxhkd/sxhkdrc
+|4,39,1,0,1702618027,"~/.config/sxhkd/sxhkdrc"
+-'  1  0  ~/.config/sxhkd/sxhkdrc
+|4,39,1,0,1702618027,"~/.config/sxhkd/sxhkdrc"
+-'  1  0  ~/.config/sxhkd/sxhkdrc
+|4,39,1,0,1702618027,"~/.config/sxhkd/sxhkdrc"
+-'  1  0  ~/.config/sxhkd/sxhkdrc
+|4,39,1,0,1702618027,"~/.config/sxhkd/sxhkdrc"
+-'  1  0  ~/.config/sxhkd/sxhkdrc
+|4,39,1,0,1702618027,"~/.config/sxhkd/sxhkdrc"
+-'  1  0  ~/.config/sxhkd/sxhkdrc
+|4,39,1,0,1702618027,"~/.config/sxhkd/sxhkdrc"
+-'  1  0  ~/.config/sxhkd/sxhkdrc
+|4,39,1,0,1702618027,"~/.config/sxhkd/sxhkdrc"
+-'  1  0  ~/.config/sxhkd/sxhkdrc
+|4,39,1,0,1702618027,"~/.config/sxhkd/sxhkdrc"
+-'  62  25  ~/.config/sxhkd/sxhkdrc
+|4,39,62,25,1702617751,"~/.config/sxhkd/sxhkdrc"
+-'  63  25  ~/.config/sxhkd/sxhkdrc
+|4,39,63,25,1702617751,"~/.config/sxhkd/sxhkdrc"
+-'  62  25  ~/.config/sxhkd/sxhkdrc
+|4,39,62,25,1702617751,"~/.config/sxhkd/sxhkdrc"
+-'  63  25  ~/.config/sxhkd/sxhkdrc
+|4,39,63,25,1702617751,"~/.config/sxhkd/sxhkdrc"
+-'  62  25  ~/.config/sxhkd/sxhkdrc
+|4,39,62,25,1702617751,"~/.config/sxhkd/sxhkdrc"
+-'  63  25  ~/.config/sxhkd/sxhkdrc
+|4,39,63,25,1702617751,"~/.config/sxhkd/sxhkdrc"
+-'  62  25  ~/.config/sxhkd/sxhkdrc
+|4,39,62,25,1702617751,"~/.config/sxhkd/sxhkdrc"
+-'  63  25  ~/.config/sxhkd/sxhkdrc
+|4,39,63,25,1702617751,"~/.config/sxhkd/sxhkdrc"
+-'  62  25  ~/.config/sxhkd/sxhkdrc
+|4,39,62,25,1702617751,"~/.config/sxhkd/sxhkdrc"
+-'  63  25  ~/.config/sxhkd/sxhkdrc
+|4,39,63,25,1702617751,"~/.config/sxhkd/sxhkdrc"
+-'  62  25  ~/.config/sxhkd/sxhkdrc
+|4,39,62,25,1702617751,"~/.config/sxhkd/sxhkdrc"
+-'  63  25  ~/.config/sxhkd/sxhkdrc
+|4,39,63,25,1702617751,"~/.config/sxhkd/sxhkdrc"
+-'  62  25  ~/.config/sxhkd/sxhkdrc
+|4,39,62,25,1702617751,"~/.config/sxhkd/sxhkdrc"
+-'  63  25  ~/.config/sxhkd/sxhkdrc
+|4,39,63,25,1702617751,"~/.config/sxhkd/sxhkdrc"
+-'  62  25  ~/.config/sxhkd/sxhkdrc
+|4,39,62,25,1702617751,"~/.config/sxhkd/sxhkdrc"
+-'  63  25  ~/.config/sxhkd/sxhkdrc
+|4,39,63,25,1702617751,"~/.config/sxhkd/sxhkdrc"
+-'  1  0  ~/.config/sxhkd/sxhkdrc
+|4,39,1,0,1702617721,"~/.config/sxhkd/sxhkdrc"
+-'  1  0  ~/.config/sxhkd/sxhkdrc
+|4,39,1,0,1702617721,"~/.config/sxhkd/sxhkdrc"
+-'  1  0  ~/.config/sxhkd/sxhkdrc
+|4,39,1,0,1702617721,"~/.config/sxhkd/sxhkdrc"
+-'  1  0  ~/.config/sxhkd/sxhkdrc
+|4,39,1,0,1702617721,"~/.config/sxhkd/sxhkdrc"
+-'  1  0  ~/.config/sxhkd/sxhkdrc
+|4,39,1,0,1702617721,"~/.config/sxhkd/sxhkdrc"
+-'  1  0  ~/.config/sxhkd/sxhkdrc
+|4,39,1,0,1702617721,"~/.config/sxhkd/sxhkdrc"
+-'  1  0  ~/.config/sxhkd/sxhkdrc
+|4,39,1,0,1702617721,"~/.config/sxhkd/sxhkdrc"
+-'  1  0  ~/.config/sxhkd/sxhkdrc
+|4,39,1,0,1702617721,"~/.config/sxhkd/sxhkdrc"
+-'  61  0  ~/.config/sxhkd/sxhkdrc
+|4,39,61,0,1702617682,"~/.config/sxhkd/sxhkdrc"
+-'  62  0  ~/.config/sxhkd/sxhkdrc
+|4,39,62,0,1702617682,"~/.config/sxhkd/sxhkdrc"
+-'  62  0  ~/.config/sxhkd/sxhkdrc
+|4,39,62,0,1702617682,"~/.config/sxhkd/sxhkdrc"
+-'  61  0  ~/.config/sxhkd/sxhkdrc
+|4,39,61,0,1702617682,"~/.config/sxhkd/sxhkdrc"
+-'  62  0  ~/.config/sxhkd/sxhkdrc
+|4,39,62,0,1702617682,"~/.config/sxhkd/sxhkdrc"
+-'  62  0  ~/.config/sxhkd/sxhkdrc
+|4,39,62,0,1702617682,"~/.config/sxhkd/sxhkdrc"
+-'  61  0  ~/.config/sxhkd/sxhkdrc
+|4,39,61,0,1702617682,"~/.config/sxhkd/sxhkdrc"
+-'  62  0  ~/.config/sxhkd/sxhkdrc
+|4,39,62,0,1702617682,"~/.config/sxhkd/sxhkdrc"
+-'  62  0  ~/.config/sxhkd/sxhkdrc
+|4,39,62,0,1702617682,"~/.config/sxhkd/sxhkdrc"
+-'  61  0  ~/.config/sxhkd/sxhkdrc
+|4,39,61,0,1702617682,"~/.config/sxhkd/sxhkdrc"
+-'  62  0  ~/.config/sxhkd/sxhkdrc
+|4,39,62,0,1702617682,"~/.config/sxhkd/sxhkdrc"
+-'  62  0  ~/.config/sxhkd/sxhkdrc
+|4,39,62,0,1702617682,"~/.config/sxhkd/sxhkdrc"
+-'  61  0  ~/.config/sxhkd/sxhkdrc
+|4,39,61,0,1702617682,"~/.config/sxhkd/sxhkdrc"
+-'  62  0  ~/.config/sxhkd/sxhkdrc
+|4,39,62,0,1702617682,"~/.config/sxhkd/sxhkdrc"
+-'  62  0  ~/.config/sxhkd/sxhkdrc
+|4,39,62,0,1702617682,"~/.config/sxhkd/sxhkdrc"
+-'  61  0  ~/.config/sxhkd/sxhkdrc
+|4,39,61,0,1702617682,"~/.config/sxhkd/sxhkdrc"
+-'  62  0  ~/.config/sxhkd/sxhkdrc
+|4,39,62,0,1702617682,"~/.config/sxhkd/sxhkdrc"
+-'  62  0  ~/.config/sxhkd/sxhkdrc
+|4,39,62,0,1702617682,"~/.config/sxhkd/sxhkdrc"
+-'  61  0  ~/.config/sxhkd/sxhkdrc
+|4,39,61,0,1702617682,"~/.config/sxhkd/sxhkdrc"
+-'  62  0  ~/.config/sxhkd/sxhkdrc
+|4,39,62,0,1702617682,"~/.config/sxhkd/sxhkdrc"
+-'  62  0  ~/.config/sxhkd/sxhkdrc
+|4,39,62,0,1702617682,"~/.config/sxhkd/sxhkdrc"
+-'  61  0  ~/.config/sxhkd/sxhkdrc
+|4,39,61,0,1702617682,"~/.config/sxhkd/sxhkdrc"
+-'  62  0  ~/.config/sxhkd/sxhkdrc
+|4,39,62,0,1702617682,"~/.config/sxhkd/sxhkdrc"
+-'  62  0  ~/.config/sxhkd/sxhkdrc
+|4,39,62,0,1702617682,"~/.config/sxhkd/sxhkdrc"
+-'  1  0  ~/.config/sxhkd/sxhkdrc
+|4,39,1,0,1702617409,"~/.config/sxhkd/sxhkdrc"
+-'  1  0  ~/.config/sxhkd/sxhkdrc
+|4,39,1,0,1702617409,"~/.config/sxhkd/sxhkdrc"
+-'  1  0  ~/.config/sxhkd/sxhkdrc
+|4,39,1,0,1702617409,"~/.config/sxhkd/sxhkdrc"
+-'  1  0  ~/.config/sxhkd/sxhkdrc
+|4,39,1,0,1702617409,"~/.config/sxhkd/sxhkdrc"
+-'  1  0  ~/.config/sxhkd/sxhkdrc
+|4,39,1,0,1702617409,"~/.config/sxhkd/sxhkdrc"
+-'  1  0  ~/.config/sxhkd/sxhkdrc
+|4,39,1,0,1702617409,"~/.config/sxhkd/sxhkdrc"
+-'  1  0  ~/.config/sxhkd/sxhkdrc
+|4,39,1,0,1702617409,"~/.config/sxhkd/sxhkdrc"
+-'  1  0  ~/.config/sxhkd/sxhkdrc
+|4,39,1,0,1702617409,"~/.config/sxhkd/sxhkdrc"
+-'  49  58  ~/.config/sxhkd/sxhkdrc
+|4,39,49,58,1702617245,"~/.config/sxhkd/sxhkdrc"
+-'  49  58  ~/.config/sxhkd/sxhkdrc
+|4,39,49,58,1702617245,"~/.config/sxhkd/sxhkdrc"
+-'  49  58  ~/.config/sxhkd/sxhkdrc
+|4,39,49,58,1702617245,"~/.config/sxhkd/sxhkdrc"
+-'  49  58  ~/.config/sxhkd/sxhkdrc
+|4,39,49,58,1702617245,"~/.config/sxhkd/sxhkdrc"
+-'  49  58  ~/.config/sxhkd/sxhkdrc
+|4,39,49,58,1702617245,"~/.config/sxhkd/sxhkdrc"
+-'  49  58  ~/.config/sxhkd/sxhkdrc
+|4,39,49,58,1702617245,"~/.config/sxhkd/sxhkdrc"
+-'  49  58  ~/.config/sxhkd/sxhkdrc
+|4,39,49,58,1702617245,"~/.config/sxhkd/sxhkdrc"
+-'  49  58  ~/.config/sxhkd/sxhkdrc
+|4,39,49,58,1702617245,"~/.config/sxhkd/sxhkdrc"
+-'  49  58  ~/.config/sxhkd/sxhkdrc
+|4,39,49,58,1702617245,"~/.config/sxhkd/sxhkdrc"
+-'  49  58  ~/.config/sxhkd/sxhkdrc
+|4,39,49,58,1702617245,"~/.config/sxhkd/sxhkdrc"
+-'  49  58  ~/.config/sxhkd/sxhkdrc
+|4,39,49,58,1702617245,"~/.config/sxhkd/sxhkdrc"
+-'  49  58  ~/.config/sxhkd/sxhkdrc
+|4,39,49,58,1702617245,"~/.config/sxhkd/sxhkdrc"
+-'  49  58  ~/.config/sxhkd/sxhkdrc
+|4,39,49,58,1702617245,"~/.config/sxhkd/sxhkdrc"
+-'  49  58  ~/.config/sxhkd/sxhkdrc
+|4,39,49,58,1702617245,"~/.config/sxhkd/sxhkdrc"
+-'  49  58  ~/.config/sxhkd/sxhkdrc
+|4,39,49,58,1702617245,"~/.config/sxhkd/sxhkdrc"
+-'  49  58  ~/.config/sxhkd/sxhkdrc
+|4,39,49,58,1702617245,"~/.config/sxhkd/sxhkdrc"
+-'  49  58  ~/.config/sxhkd/sxhkdrc
+|4,39,49,58,1702617245,"~/.config/sxhkd/sxhkdrc"
+-'  49  58  ~/.config/sxhkd/sxhkdrc
+|4,39,49,58,1702617245,"~/.config/sxhkd/sxhkdrc"
+-'  49  58  ~/.config/sxhkd/sxhkdrc
+|4,39,49,58,1702617245,"~/.config/sxhkd/sxhkdrc"
+-'  49  58  ~/.config/sxhkd/sxhkdrc
+|4,39,49,58,1702617245,"~/.config/sxhkd/sxhkdrc"
+
+# Historique des marques dans les fichiers (les plus récentes en premier) :
+
+> ~/.config/bspwm/bspwmrc
+	*	1702642999	0
+	"	20	9
+	^	13	1
+	.	20	9
+	+	19	11
+	+	9	62
+	+	10	36
+	+	12	0
+	+	10	0
+	+	12	0
+	+	10	0
+	+	12	0
+	+	11	24
+	+	22	25
+	+	9	33
+	+	25	16
+	+	64	43
+	+	22	5
+	+	64	38
+	+	65	45
+	+	22	5
+	+	64	26
+	+	65	34
+	+	64	13
+	+	22	1
+	+	64	14
+	+	22	0
+	+	64	21
+	+	22	0
+	+	20	0
+	+	64	0
+	+	60	0
+	+	21	8
+	+	61	0
+	+	60	45
+	+	21	0
+	+	20	18
+	+	45	0
+	+	43	77
+	+	44	0
+	+	13	0
+	+	20	9
+
+> ~/.config/xfce4/helpers.rc
+	*	1702618260	0
+	"	1	0
+	^	1	27
+	.	1	26
+	+	1	26
+
+> ~/.config/sxhkd/sxhkdrc
+	*	1702618045	0
+	"	78	0
+	^	62	26
+	.	49	0
+	+	31	22
+	+	34	8
+	+	25	0
+	+	24	0
+	+	25	0
+	+	20	0
+	+	48	0
+	+	59	0
+	+	50	3
+	+	52	3
+	+	53	3
+	+	56	3
+	+	59	3
+	+	64	14
+	+	64	0
+	+	49	22
+	+	50	39
+	+	53	32
+	+	52	0
+	+	55	24
+	+	56	39
+	+	55	28
+	+	56	43
+	+	58	0
+	+	49	58
+	+	58	25
+	+	59	14
+	+	62	0
+	+	61	0
+	+	62	26
+	+	64	0
+	+	61	0
+	+	62	25
+	+	49	0
+
+> ~/.config/dunst/dunstrc
+	*	1702614877	0
+	"	1	0
+	^	8	25
+	.	8	25
+	+	1	8
+	+	20	22
+	+	4	23
+	+	7	8
+	+	12	8
+	+	17	8
+	+	4	24
+	+	67	24
+	+	42	30
+	+	8	23
+	+	31	23
+	+	8	25
+
+> /etc/X11/xorg.conf.d/50-synaptics.conf
+	*	1702586079	0
+	"	52	0
+
+> /etc/X11/xorg.conf.d/30-touchpad.conf
+	*	1702586058	0
+	"	1	0
+
+> ~/.config/neofetch/config.conf
+	*	1702326697	0
+	"	392	14
+	^	390	16
+	.	390	14
+	+	33	4
+	+	28	0
+	+	390	20
+	+	27	4
+	+	390	14
+
+> ~/.zshrc
+	*	1702326196	0
+	"	303	7
+	^	303	8
+	.	303	7
+	+	74	0
+	+	116	0
+	+	111	5
+	+	112	35
+	+	113	54
+	+	80	11
+	+	80	0
+	+	303	7
+
+> ~/.config/polybar/config.ini
+	*	1702325819	0
+	"	258	11
+	^	222	26
+	.	222	25
+	+	158	19
+	+	162	18
+	+	136	0
+	+	139	0
+	+	149	0
+	+	136	0
+	+	150	19
+	+	155	21
+	+	158	19
+	+	162	18
+	+	139	12
+	+	142	0
+	+	143	0
+	+	144	0
+	+	145	0
+	+	146	0
+	+	147	0
+	+	148	0
+	+	139	20
+	+	140	20
+	+	141	21
+	+	134	20
+	+	85	0
+	+	86	0
+	+	87	0
+	+	88	0
+	+	89	0
+	+	90	0
+	+	91	0
+	+	92	0
+	+	93	0
+	+	94	0
+	+	113	0
+	+	57	20
+	+	113	1
+	+	114	0
+	+	115	0
+	+	116	0
+	+	117	0
+	+	119	0
+	+	120	0
+	+	121	0
+	+	122	0
+	+	125	0
+	+	126	0
+	+	127	0
+	+	129	0
+	+	130	0
+	+	131	0
+	+	133	0
+	+	134	0
+	+	113	0
+	+	96	0
+	+	95	0
+	+	86	15
+	+	88	18
+	+	86	15
+	+	88	15
+	+	89	14
+	+	93	0
+	+	89	0
+	+	109	40
+	+	86	19
+	+	87	0
+	+	86	18
+	+	234	21
+	+	233	0
+	+	234	17
+	+	234	18
+	+	234	17
+	+	234	18
+	+	234	37
+	+	218	19
+	+	209	19
+	+	174	11
+	+	175	20
+	+	209	19
+	+	218	19
+	+	175	16
+	+	209	19
+	+	175	15
+	+	213	8
+	+	209	20
+	+	218	22
+	+	209	20
+	+	218	21
+	+	221	0
+	+	222	8
+	+	220	22
+	+	222	24
+	+	213	26
+	+	222	24
+	+	213	26
+	+	211	30
+	+	213	34
+	+	222	25
+	+	213	35
+	+	222	26
+	+	213	34
+	+	222	25
+
+> ~/.config/polybar/popup-calendar.sh
+	*	1702324236	0
+	"	7	15
+	^	7	20
+	.	7	15
+	+	1	9
+	+	41	3
+	+	7	15
+
+> /usr/share/doc/polybar/examples/config.ini
+	*	1702219071	0
+	"	57	0
+
+> ~/.ssh/id_rsa.pub.pub
+	*	1702215271	0
+	"	1	0
+
+> ~/.ssh/id_rsa.pub
+	*	1702215265	0
+	"	1	0
+
+> /run/media/zubi/T7/BACKUP/zubi-ubz/.bashrc.old
+	*	1702211304	0
+	"	5	0
+	.	2	0
+	+	2	0
+
+> ~/.config/mimeapps.list
+	*	1702156065	0
+	"	1	0
+
+> /mnt/BACKUP/zubi-new-arch/.vimrc
+	*	1702074651	0
+	"	1	0
+
+> ~/.config/bspwm/sxhkd/sxhkdrc
+	*	1696874694	0
+	"	438	6
+	.	416	0
+	+	108	41
+	+	108	11
+	+	108	3
+	+	108	14
+	+	108	60
+	+	108	0
+	+	421	0
+	+	416	0
+
+> ~/Documents/QEMU/CLI-LIGHTDM-test/archstart2.sh
+	*	1696684931	0
+	"	21	0
+	^	21	1
+	.	21	0
+	+	21	5
+	+	36	33
+	+	36	0
+	+	21	5
+	+	36	0
+	+	35	7
+	+	21	5
+	+	35	0
+	+	21	5
+	+	35	0
+	+	21	0
+
+> ~/Documents/scripts/python/projet/osintcraft/test.py
+	*	1696681779	0
+	"	25	0
+
+> ~/Documents/scripts/python/projet/osintcraft/qemu/archcraft.sh
+	*	1696681589	0
+	"	21	0
+
+> ~/Documents/scripts/bu_config_arcolinux.sh
+	*	1696681364	0
+	"	45	0
+
+> /etc/xdg/autostart/spice-vdagent.desktop
+	*	1695581463	0
+	"	1	0
+
+> /run/spice-vdagentd/spice-vdagentd.pid
+	*	1695580659	0
+	"	1	0
+
+> /usr/lib/systemd/system/spice-vdagentd.service
+	*	1695580279	0
+	"	10	8
+
+> /usr/share/X11/xkb/rules/base.lst
+	*	1695498790	0
+	"	708	0
+
+> ~/Documents/QEMU/archstart.sh
+	*	1695329675	0
+	"	4	0
+	^	4	0
+	.	3	150
+	+	2	0
+	+	1	0
+	+	2	0
+	+	1	177
+	+	1	0
+	+	1	188
+	+	1	459
+	+	1	119
+	+	5	0
+	+	1	0
+	+	5	110
+	+	5	0
+	+	3	150
+
+> ~/Documents/scripts/python/fichier.py
+	*	1695069279	0
+	"	70	0
+	.	71	0
+	+	21	4
+	+	21	5
+	+	21	0
+	+	52	0
+	+	16	0
+	+	40	0
+	+	33	41
+	+	32	0
+	+	33	40
+	+	33	0
+	+	37	0
+	+	34	0
+	+	31	0
+	+	71	0
+
+> ~/.vim/pack/tpope/start/Documents/scripts/python/fichier.py
+	*	1695069155	0
+	"	1	0
+
+> ~/.vimrc
+	*	1695069121	0
+	"	99	57
+	^	99	58
+	.	99	58
+	+	1	3
+	+	82	36
+	+	91	0
+	+	95	93
+	+	100	0
+	+	99	58
+
+> ~/Documents/scripts/keybind_vim
+	*	1695067295	0
+	"	13	0
+
+> ~/Documents/scripts/python/fichier.
+	*	1695066122	0
+	"	1	0
+
+> ~/Téléchargements/test/test.json
+	*	1695066098	0
+	"	37	36
+	^	32	36
+	.	32	36
+	+	32	36
+
+> ~/Téléchargements/test/retravail.json
+	*	1695065178	0
+	"	1	0
+
+> ~/Téléchargements/test/extract.py
+	*	1694975753	0
+	"	6	20
+	^	6	21
+	.	6	20
+	+	9	11
+	+	9	0
+	+	9	20
+	+	9	8
+	+	9	25
+	+	9	0
+	+	9	3
+	+	9	0
+	+	9	14
+	+	9	0
+	+	9	25
+	+	9	26
+	+	9	31
+	+	9	0
+	+	9	13
+	+	9	12
+	+	9	4
+	+	9	20
+	+	9	19
+	+	9	4
+	+	9	0
+	+	9	16
+	+	5	23
+	+	9	0
+	+	9	47
+	+	9	8
+	+	9	34
+	+	2	0
+	+	9	0
+	+	9	15
+	+	9	0
+	+	5	3
+	+	9	3
+	+	9	7
+	+	9	26
+	+	2	9
+	+	9	0
+	+	7	130
+	+	7	14
+	+	8	18
+	+	7	23
+	+	6	22
+	+	7	142
+	+	7	7
+	+	8	7
+	+	7	38
+	+	6	17
+	+	7	138
+	+	7	30
+	+	6	20
+
+> ~/Téléchargements/test/favtr.py
+	*	1694934604	0
+	"	1	0
+	^	12	24
+	.	1	0
+	+	4	13
+	+	7	16
+	+	10	27
+	+	11	15
+	+	10	2
+	+	11	20
+	+	12	24
+	+	10	34
+	+	11	8
+	+	12	23
+	+	1	0
+
+> ~/Téléchargements/json/json.py
+	*	1694930204	0
+	"	11	0
+	.	11	0
+	+	4	26
+	+	10	26
+	+	14	8
+	+	7	17
+	+	6	0
+	+	6	31
+	+	7	0
+	+	4	0
+	+	10	0
+	+	11	0
+	+	6	17
+	+	4	0
+	+	6	0
+	+	7	0
+	+	10	0
+	+	11	0
+
+> ~/Téléchargements/json/favnight.json
+	*	1694928050	0
+	"	1	0
+
+> ~/Téléchargements/browser-search-page/src/assets/main.css
+	*	1694848050	0
+	"	1	0
+
+> ~/Téléchargements/browser-search-page/src/main.js
+	*	1694848037	0
+	"	1	0
+
+> ~/Documents/scripts/python/heure.py
+	*	1694725938	0
+	"	19	0
+	^	19	0
+	.	19	0
+	+	18	0
+	+	1	0
+	+	19	0
+
+> ~/.vim/essai
+	*	1694725201	0
+	"	1	0
+	^	1	5
+	.	1	4
+	+	1	4
+
+> ~/.vim/test
+	*	1694725198	0
+	"	1	3
+	^	1	4
+	.	1	3
+	+	1	3
+
+> /tmp/crontab.yILMCX
+	*	1694719569	0
+	"	1	0
+
+> /tmp/crontab.razUV6
+	*	1694719565	0
+	"	1	13
+	^	1	14
+	.	1	14
+	+	1	14
+
+> /tmp/crontab.BEes7Q
+	*	1694719516	0
+	"	1	45
+	^	1	46
+	.	1	45
+	+	1	45
+
+> /tmp/crontab.8Hdxr7
+	*	1694719427	0
+	"	1	0
+
+> /tmp/crontab.ASJ6lf
+	*	1694719413	0
+	"	1	1
+	^	1	79
+	.	1	0
+	+	1	0
+
+> /etc/X11/xorg.conf.d/30-touchpad.conf.bk
+	*	1686944475	0
+	"	5	5
+
+> /etc/X11/xorg.conf.d/20-touchpad.conf
+	*	1686944466	0
+	"	14	21
+	^	14	22
+	.	14	21
+	+	14	21
+
+> /etc/mkinitcpio.conf
+	*	1686943629	0
+	"	20	0
+	^	19	43
+	.	19	0
+	+	19	0
+
+> /run/media/zubi/T7/Arcolinux - BSWMP/personnalisation.sh
+	*	1684867851	0
+	"	38	23
+	^	38	24
+	.	38	23
+	+	41	0
+	+	36	22
+	+	38	23
+
+> ~/.bashrc
+	*	1684867618	0
+	"	412	0
+
+> ~/.config/xfce4/xfconf/xfce-perchannel-xml/thunar.xml
+	"	1	0

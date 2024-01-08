@@ -1,0 +1,23 @@
+[global_config]
+  geometry_hinting = True
+[keybindings]
+[profiles]
+  [[default]]
+    background_darkness = 0.74
+    background_type = transparent
+    cursor_fg_color = "#000000"
+    cursor_bg_color = "#deddda"
+    font = Source Code Pro Medium 11
+    foreground_color = "#ffa348"
+    show_titlebar = False
+    use_system_font = False
+    title_font = Serif 9
+[layouts]
+  [[default]]
+    [[[window0]]]
+      type = Window
+      parent = ""
+    [[[child1]]]
+      type = Terminal
+      parent = window0
+[plugins]

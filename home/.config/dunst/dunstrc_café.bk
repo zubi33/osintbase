@@ -1,0 +1,20 @@
+[global]
+frame_color = "#89B4FA"
+separator_color= frame
+font=DejaVu Sans Light 10
+
+[urgency_low]
+timeout=4
+background = "#1E1E2E"
+foreground = "#CDD6F4"
+
+[urgency_normal]
+timeout=4
+background = "#1E1E2E"
+foreground = "#CDD6F4"
+
+[urgency_critical]
+timeout=4
+background = "#1E1E2E"
+foreground = "#CDD6F4"
+frame_color = "#FAB387"

@@ -1,0 +1,13 @@
+[Default Applications]
+image/png=feh.desktop
+x-scheme-handler/mailto=userapp-Thunderbird-2FLZF2.desktop
+message/rfc822=userapp-Thunderbird-2FLZF2.desktop
+x-scheme-handler/mid=userapp-Thunderbird-2FLZF2.desktop
+application/x-zerosize=code-oss.desktop
+
+[Added Associations]
+image/png=feh.desktop;
+application/x-shellscript=code-oss.desktop;
+x-scheme-handler/mailto=userapp-Thunderbird-2FLZF2.desktop;
+x-scheme-handler/mid=userapp-Thunderbird-2FLZF2.desktop;
+application/x-zerosize=code-oss.desktop;
