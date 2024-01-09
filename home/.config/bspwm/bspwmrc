@@ -12,9 +12,9 @@ picom --config $HOME/.config/bspwm/picom.conf &
 dunst &
 volumeicon &
 thunar &
-terminator &
-code-oss & 
+terminator & 
 chromium &
+rofi-change-theme &
 
 #MONITOR
 bspc monitor -d I II III IV V VI VII VIII IX X

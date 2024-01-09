@@ -105,7 +105,10 @@ yad openssh code exo alsa-utils xdo pulseaudio-alsa \
 adobe-source-code-pro-fonts awesome-terminal-fonts cantarell-fonts noto-fonts ttf-dejavu ttf-nerd-fonts-symbols ttf-nerd-fonts-symbols-common \
 thunar-archive-plugin thunar-media-tags-plugin thunar-volman \
 volumeicon playerctl neofetch awesome-terminal-fonts xfce4-clipman-plugin \
-clamav clamtk mpv feh galculator catfish htop shutter python xarchiver ristretto 
+clamav clamtk mpv feh galculator catfish htop shutter python xarchiver ristretto \
+exo garcon tumbler xfce4-appfinder xfce4-panel xfce4-power-manager xfce4-session xfce4-settings \
+xfconf xfdesktop xfwm4 xfwm4-themes xfce4-mount-plugin xfce4-netload-plugin xfce4-pulseaudio-plugin \
+gnome-themes-extra sassc colloid-gtk-theme-git
 
 systemctl enable NetworkManager
 
@@ -270,7 +273,7 @@ echo -e """$BIWithe $URed
 
 -------------------------------------------------------------
 
-Copie des fichiers utilisateurs (home)...
+Copie des fichiers utilisateur (home)...
 
 $NoColor"""
 
@@ -279,7 +282,7 @@ rsync -aqh home/ ~/
 
 echo """
 
-LightDM configuré.
+Fichiers utilisateur copiés.
 
 -------------------------------------------------------------
 
@@ -303,7 +306,7 @@ sudo rsync -aqh root/ /
 
 echo """
 
-LightDM configuré.
+Fichiers racine copiés.
 
 -------------------------------------------------------------
 
@@ -339,6 +342,26 @@ ZSH as default.
 
 read touche
 
+echo -e """$BIWithe $UPurple
+
+--------------------------------------------------------------
+
+Configuration du theme utilisateur.$NoColor"""
+
+gsettings set org.gnome.desktop.interface gtk-theme Colloid
+gsettings set org.gnome.desktop.interface icon-theme Colloid
+
+echo """
+
+Theme configuré.
+-------------------------------------------------------------
+
+
+  ==> Tappez ENTER !
+
+"""
+
+read touche
 echo -e """$BIWithe $UBlue
 
         **************************
