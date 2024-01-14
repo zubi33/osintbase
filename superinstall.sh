@@ -166,8 +166,8 @@ Installation des programmes avec paru.$NoColor
 
 paru -S vim-gruvbox-material-git rofi-power-menu clipmenu-rofi \
 thunar-shares-plugin raw-thumbnailer ttf-font-awesome-5 \
-pamixer pdfsam zsh qogir-gtk-theme colloid-gtk-theme-git colloid-icon-them-git \
-tor-browser-bin httraqt-git
+pamixer pdfsam zsh qogir-gtk-theme colloid-gtk-theme-git colloid-icon-theme-git \
+tor-browser-bin httraqt-git picorypt-git
 
 
 
