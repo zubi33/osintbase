@@ -108,7 +108,7 @@ volumeicon playerctl neofetch awesome-terminal-fonts xfce4-clipman-plugin \
 clamav clamtk mpv feh galculator catfish htop shutter python xarchiver ristretto \
 exo garcon tumbler xfce4-appfinder xfce4-panel xfce4-power-manager xfce4-session xfce4-settings \
 xfconf xfdesktop xfwm4 xfwm4-themes xfce4-mount-plugin xfce4-netload-plugin xfce4-pulseaudio-plugin \
-gnome-themes-extra sassc tor-browser-bin
+gnome-themes-extra sassc 
 
 systemctl enable NetworkManager
 
@@ -166,7 +166,7 @@ Installation des programmes avec paru.$NoColor
 
 paru -S vim-gruvbox-material-git rofi-power-menu clipmenu-rofi \
 thunar-shares-plugin raw-thumbnailer ttf-font-awesome-5 \
-pamixer pdfsam zsh qogir-gtk-theme colloid-gtk-theme-git colloid-icon-them-git 
+pamixer pdfsam zsh qogir-gtk-theme colloid-gtk-theme-git colloid-icon-them-git tor-browser-bin httraqt-git
 
 
 
