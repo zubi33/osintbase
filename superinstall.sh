@@ -188,11 +188,43 @@ echo -e """$BIWithe $UPurple
 
 -------------------------------------------------------------------
 
+Installé Dorklab $NoColor
+"""
+
+cd ~/Documents/
+python -m venv Dork
+source Dork/bin/activate
+cd Dork
+git clone https://github.com/rtwillett/DorkLab.git
+cd DorkLab
+echo "Werkzeug===2.2.2" >> requirements.txt
+pip install -r requirements.txt
+python -m spacy download en_core_web_lg
+deactivate
+
+
+echo """
+
+Dorklab installé.
+-------------------------------------------------------------
+
+
+  ==> Tappez ENTER !
+
+"""
+
+read touche
+
+echo -e """$BIWithe $UPurple
+
+-------------------------------------------------------------------
+
 Installe et configure rofi.
 
 Thème rounded-orange-dark conseillé ! $NoColor
 """
 
+cd $nowdir
 xdg-user-dirs-update
 mkdir -p $HOME/.local/share/rofi/themes/
 git clone https://github.com/lr-tech/rofi-themes-collection.git

@@ -15,6 +15,7 @@ thunar &
 terminator & 
 chromium &
 rofi-change-theme &
+~/.local/scripts/dorks.sh &
 
 #MONITOR
 bspc monitor -d I II III IV V VI VII VIII IX X
